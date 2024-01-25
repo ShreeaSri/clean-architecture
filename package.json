@@ -1,0 +1,12 @@
+{
+  "name": "new-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Shreea Sri <shreeasri@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "workspaces":[
+    "mock-server",
+    "web"
+  ]
+}
